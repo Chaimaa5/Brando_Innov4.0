@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------------
 
-    Theme Name: Avo
+    Theme Name: Innov4.0
     Theme URI: http://
     Description: Creative Agency & Portfolio
     Author: UI-ThemeZ

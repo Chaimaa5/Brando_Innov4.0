@@ -3321,7 +3321,7 @@ header.simpl {
             margin: 0 10px 0 0; }
     .portfolio .gallery .items .cont {
       margin-top: 30px;
-      text-align: center; }
+      text-align: left; }
       .portfolio .gallery .items .cont h6 {
         font-weight: 600;
         margin-bottom: 5px; }

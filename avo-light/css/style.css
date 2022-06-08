@@ -60,7 +60,7 @@ body {
   line-height: 1.5;
   font-weight: 400;
   overflow-x: hidden !important;
-  font-family: 'Poppins', sans-serif; }
+  font-family: 'Corbel', sans-serif; }
   body.bd-dark {
     color: #fff;
     background: #0c0f16; }
@@ -98,7 +98,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   color: #777;
-  font-size: 15px;
+  font-size: 20px;
   font-weight: 300;
   line-height: 2;
   margin: 0; }
@@ -1391,7 +1391,7 @@ body {
         opacity: 1;
         cursor: pointer; }
   .navbar .logo {
-    width: 50px; }
+    width: 60px; }
   .navbar.light .navbar-nav .nav-link {
     color: #0c0f16; }
   .navbar.light .search {
@@ -2304,7 +2304,7 @@ header.simpl {
     color: #fff;
     font-size: 17px; }
     .pages-header .cont .path .active {
-      color: #314d82; }
+      color: #ffffff; }
     .pages-header .cont .path span {
       margin: 0 20px;
       font-size: 10px; }
@@ -3014,7 +3014,7 @@ header.simpl {
   .services .item {
     text-align: center;
     padding: 60px;
-    background: #efefef;
+    background: #E9F1F5;
     position: relative; }
     .services .item.simpl {
       background: transparent;
@@ -3059,7 +3059,7 @@ header.simpl {
     right: 120px;
     bottom: 0;
     left: -300px;
-    background: #efefef;
+    background: #E9F1F5;
     z-index: -1; }
 
 .min-area .content {
@@ -3788,7 +3788,7 @@ header.simpl {
       bottom: -120px;
       right: 0;
       width: 80%;
-      background: #efefef;
+      background: #E9F1F5;
       z-index: -1; }
   .team .item {
     padding: 0 15px; }
@@ -4945,7 +4945,8 @@ header.simpl {
     .navbar .nav-link {
       margin: 10px auto !important; }
   .navbar .logo {
-    margin-left: 15px;
+    margin-top: 50px;
+    margin-left: 25px;
     width: 50px; }
   .nav-scroll .navbar-collapse .nav-link,
   .light .navbar-collapse .nav-link {

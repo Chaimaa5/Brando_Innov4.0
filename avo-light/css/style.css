@@ -97,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600; }
 
 p {
-  color: #777;
+  color: #000000;
   font-size: 20px;
   font-weight: 300;
   line-height: 2;
@@ -3014,7 +3014,7 @@ header.simpl {
   .services .item {
     text-align: center;
     padding: 60px;
-    background: #E9F1F5;
+    background: #B6C3AE;
     position: relative; }
     .services .item.simpl {
       background: transparent;

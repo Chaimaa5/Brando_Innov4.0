@@ -97,13 +97,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600; }
 
 p {
-<<<<<<< HEAD
   color: #777;
   font-size: 15px;
-=======
-  color: #000000;
-  font-size: 20px;
->>>>>>> b73f0594502c70d440ca7da0fd18149f4f80632b
   font-weight: 300;
   line-height: 2;
   margin: 0; }

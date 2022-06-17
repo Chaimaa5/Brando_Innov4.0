@@ -97,13 +97,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600; }
 
 p {
-<<<<<<< HEAD
   color: #777;
   font-size: 15px;
-=======
-  color: #000000;
-  font-size: 20px;
->>>>>>> b73f0594502c70d440ca7da0fd18149f4f80632b
   font-weight: 300;
   line-height: 2;
   margin: 0; }
@@ -1008,7 +1003,7 @@ body {
   z-index: 1; }
 
 [data-overlay-dark]:before {
-  background: #02050b; }
+  background: hsla(219, 77%, 5%, 0.74); }
 
 [data-overlay-light]:before {
   background: #fff; }
@@ -1113,7 +1108,7 @@ body {
     font-size: 10vw;
     font-weight: 700;
     color: transparent;
-    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);
+    -webkit-text-stroke: 1.5px #8CC53D;
     opacity: .3; }
   .sec-head.tr-head {
     text-align: right;
@@ -1182,7 +1177,7 @@ body {
 .btn-curve {
   background: transparent;
   padding: 12px 35px;
-  border: 1px solid #1e1e1e;
+  border: 1px solid #8CC53D;
   position: relative;
   overflow: hidden;
   cursor: pointer; }
@@ -3005,11 +3000,11 @@ header.simpl {
       top: -60px; }
     .services .step-item.xcolor {
       background: #8eb34d;
-      color: #11141b; }
+      color: #ffffff; }
       .services .step-item.xcolor .icon {
-        color: #11141b !important; }
+        color: #ffffff !important; }
       .services .step-item.xcolor p {
-        color: #333; }
+        color: #ffffff; }
     .services .step-item .icon {
       color: #8eb34d;
       font-size: 40px;
@@ -4157,7 +4152,7 @@ header.simpl {
     right: 20%; }
   .block-sec .showreel .video-box .tit-text {
     position: absolute;
-    top: -100px;
+    top: -240px;
     width: 100%;
     text-align: center;
     z-index: -1; }
@@ -4166,7 +4161,7 @@ header.simpl {
       font-weight: 700;
       text-transform: uppercase;
       color: transparent;
-      -webkit-text-stroke: 1px rgba(0, 0, 0, 0.1); }
+      -webkit-text-stroke: 0.7px #8CC53D; }
   .block-sec .showreel .video-box .vid {
     width: 140px;
     height: 140px;
@@ -4805,7 +4800,7 @@ header.simpl {
 /* ====================== [ Start Footer ] ====================== */
 .footer-half {
   color: #fff;
-  background: #0c0f16 !important;
+  background: #000000 !important;
   position: relative;
   z-index: 2; }
   .footer-half:after {
@@ -4815,7 +4810,7 @@ header.simpl {
     left: 0;
     height: 100%;
     width: 50%;
-    background: #151921;
+    background: #000000;
     z-index: -1; }
   .footer-half .stit {
     display: inline-block;
